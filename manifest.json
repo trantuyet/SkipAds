@@ -6,7 +6,7 @@
   "manifest_version": 2,
   "version": "0.0.1",
   "description":
-  "Một tiện ích giúp bạn bỏ qua quảng cáo Youtube mà không cần phải bấm vì nó là auto :)) viết bởi Trần Tuyết 2k2",
+  "Một tiện ích giúp bạn bỏ qua quảng cáo Youtube mà không cần phải bấm vì nó là auto :)) viết bởi Tiểu dọc mùng",
   "content_scripts": [{
     "matches": [
       "https://www.youtube.com/watch*"
