@@ -1,6 +1,6 @@
 {
   "browser_action": {
-    "default_icon": "logo.png"
+    "default_icon": "logo1.png"
   },
   "name": "Auto Skip Ads Youtube",
   "manifest_version": 2,
