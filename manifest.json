@@ -9,7 +9,7 @@
   "Một tiện ích giúp bạn bỏ qua quảng cáo Youtube mà không cần phải bấm vì nó là auto :)) viết bởi Tiểu dọc mùng",
   "content_scripts": [{
     "matches": [
-      "https://www.youtube.com*",
+      "https://www.youtube.com/*",
       "https://www.youtube.com/watch*"
     ],
     "js": [
