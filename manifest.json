@@ -1,12 +1,12 @@
 {
-  "browser_action": {
-    "default_icon": "logo1.png"
+  "icons": {
+    "128": "logo.png"
   },
   "name": "Auto Skip Ads Youtube",
-  "manifest_version": 2,
-  "version": "0.0.1",
+  "manifest_version": 3,
+  "version": "0.0.2",
   "description":
-  "Một tiện ích giúp bạn bỏ qua quảng cáo Youtube mà không cần phải bấm vì nó là auto :)) viết bởi Tiểu dọc mùng",
+  "test thoi, chi la test thoi, hay bo qua dong nay di",
   "content_scripts": [{
     "matches": [
       "https://www.youtube.com/watch*"
